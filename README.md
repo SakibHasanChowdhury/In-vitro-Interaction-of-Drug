@@ -5,6 +5,7 @@ Examination Roll No.: 1236 | Reg. No.: 1236 | Session: January, 2020 | Examinati
 Overview
 
 This project investigates the in vitro drug–drug interaction between Amoxicillin (a penicillin antibiotic) and Vildagliptin (an anti-diabetic, DPP-4 inhibitor), and examines whether this interaction affects Amoxicillin’s antimicrobial activity. Co-prescription of antibiotics and anti-diabetic drugs is common, but interactions between them can reduce therapeutic efficacy — this study quantifies that risk for this specific drug pair.
+
 Objectives
 	•	Study drug–drug interactions and their underlying nature.
 	•	Quantitatively determine the interaction between Amoxicillin and Vildagliptin.
@@ -15,6 +16,7 @@ Drugs / Reagents: Amoxicillin (active drug), Vildagliptin, sodium chloride, conc
 Equipment: pH meter, UV spectrophotometer, electronic balance, pipette
 
 Methods
+
 	1.	Preparation — Buffer solution and stock solutions of Amoxicillin and Vildagliptin were prepared.
 	2.	Standard curve — A standard curve for Amoxicillin was constructed by measuring absorbance (UV spectrophotometer, 228.71 nm) across a concentration series at pH 1.75, using buffer as the reference blank.
 	3.	Spectral analysis — Absorbance of Amoxicillin alone and Amoxicillin + Vildagliptin was measured across a range of wavelengths (200–345 nm) to detect spectral shifts indicating interaction.
