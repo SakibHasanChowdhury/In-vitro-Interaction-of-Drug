@@ -20,11 +20,15 @@ Methods
 	3.	Spectral analysis — Absorbance of Amoxicillin alone and Amoxicillin + Vildagliptin was measured across a range of wavelengths (200–345 nm) to detect spectral shifts indicating interaction.
 	4.	Job’s plot (method of continuous variation) — Complementary concentrations of Amoxicillin and Vildagliptin were mixed and absorbance differences calculated to determine the stoichiometry of the complex formed.
 	5.	Antimicrobial analysis (disk diffusion method) — Zones of inhibition were measured for Amoxicillin alone versus Amoxicillin + Vildagliptin against E. coli (Gram-negative) and Staphylococcus aureus (Gram-positive).
+
 Key Results
 	•	The Job’s plot produced a Λ-shaped curve, indicating Amoxicillin forms a strong 1:1 complex with Vildagliptin.
 	•	Spectral analysis showed measurable absorbance shifts when Vildagliptin was present, consistent with complex formation.
-	•	Disk diffusion assay:|Bacteria               |Standard disk (zone of inhibition)|Amoxicillin alone|Amoxicillin + Vildagliptin|
-  |-----------------------|----------------------------------|-----------------|--------------------------|
+	
+•	Disk diffusion assay:
+
+|Bacteria               |Standard disk (zone of inhibition)|Amoxicillin alone|Amoxicillin + Vildagliptin|
+|-----------------------|----------------------------------|-----------------|--------------------------|
   |*E. coli*              |14 mm                             |7 mm             |No zone of inhibition     |
   |*Staphylococcus aureus*|14 mm                             |—                |No zone of inhibition     |
 
