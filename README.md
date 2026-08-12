@@ -7,11 +7,13 @@ Overview
 This project investigates the in vitro drug–drug interaction between Amoxicillin (a penicillin antibiotic) and Vildagliptin (an anti-diabetic, DPP-4 inhibitor), and examines whether this interaction affects Amoxicillin’s antimicrobial activity. Co-prescription of antibiotics and anti-diabetic drugs is common, but interactions between them can reduce therapeutic efficacy — this study quantifies that risk for this specific drug pair.
 
 Objectives
+
 	•	Study drug–drug interactions and their underlying nature.
 	•	Quantitatively determine the interaction between Amoxicillin and Vildagliptin.
 	•	Determine whether the Amoxicillin–Vildagliptin interaction affects the antimicrobial activity of Amoxicillin.
 
-Materials
+Materials:
+
 Drugs / Reagents: Amoxicillin (active drug), Vildagliptin, sodium chloride, concentrated HCl, demineralized water
 Equipment: pH meter, UV spectrophotometer, electronic balance, pipette
 
@@ -24,6 +26,7 @@ Methods
 	5.	Antimicrobial analysis (disk diffusion method) — Zones of inhibition were measured for Amoxicillin alone versus Amoxicillin + Vildagliptin against E. coli (Gram-negative) and Staphylococcus aureus (Gram-positive).
 
 Key Results
+
 	•	The Job’s plot produced a Λ-shaped curve, indicating Amoxicillin forms a strong 1:1 complex with Vildagliptin.
 	•	Spectral analysis showed measurable absorbance shifts when Vildagliptin was present, consistent with complex formation.
 	
@@ -34,7 +37,8 @@ Key Results
   |*E. coli*              |14 mm                             |7 mm             |No zone of inhibition     |
   |*Staphylococcus aureus*|14 mm                             |—                |No zone of inhibition     |
 
-Conclusion
+Conclusion :
+
 Amoxicillin forms a potent 1:1 complex with Vildagliptin, confirmed by the characteristic Λ-shaped Job’s plot curve. 
 This interaction measurably reduces Amoxicillin’s antimicrobial activity (zone of inhibition), indicating the two drugs 
 should not be co-administered without caution due to this interaction.
